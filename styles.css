@@ -1,0 +1,17 @@
+.custom-button {
+    background-color: #666;
+    border-radius: 10px;
+    padding: 10px 20px;
+    display: inline-flex;
+    align-items: center;
+  }
+  
+  .icon {
+    margin-right: 5px;
+    font-size: 18px;
+  }
+  
+  .text {
+    color: white;
+    font-size: 18px;
+  }
